@@ -8,10 +8,13 @@ public class Apisurag8NotificacionesApplication {
 
 	public static void main(String[] args) {
 
-        //Cómo se usa ua clase
-        //Cómo se crea un objeto
-        //Qué es un modificador de acceso
-        //Qué es encapsulamiento
+        //Cómo se usa una clase? (creando objetos)
+        //Cómo se crea un objeto? (nombreClase nombreObjeto= constructor)
+        //Qué es un modificador de acceso? (palabras reservadas para proteger atributos (public, private, protected))
+        //Qué es encapsulamiento? (tecnica que permita acceder a los atributos privados de un a clase (getter para leer y setter par modificar))
+        //Que es una interface?
+        //Que es una función?
+        //Cómo se implementan las funciones de una onterface?
 
 		SpringApplication.run(Apisurag8NotificacionesApplication.class, args);
 	}
