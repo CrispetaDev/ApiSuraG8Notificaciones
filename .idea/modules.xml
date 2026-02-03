@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/APISURAG8NOTIFICACIONES/APISURAG8NOTIFICACIONES.iml" filepath="$PROJECT_DIR$/APISURAG8NOTIFICACIONES/APISURAG8NOTIFICACIONES.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ApiSuraG8Notificaciones.iml" filepath="$PROJECT_DIR$/.idea/ApiSuraG8Notificaciones.iml" />
     </modules>
   </component>
